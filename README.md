@@ -8,4 +8,4 @@ Learned how to use Flexbot the correct way.
 
 <h2> Screen gif of final result</h2>
 
-![](project.gif)
+![](Project.gif)
